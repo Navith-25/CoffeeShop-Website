@@ -1,2 +1,3 @@
 # CoffeeShop-Website
-☕ Coffee Shop Website Technologies Used: HTML, CSS, JavaScript
+☕ Coffee Shop Website 
+<p>Technologies Used: HTML, CSS, JavaScript</p>
